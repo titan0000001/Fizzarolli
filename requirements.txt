@@ -3,4 +3,5 @@ requests
 pillow
 matplotlib 
 seaborn 
+plotly
 
