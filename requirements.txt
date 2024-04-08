@@ -1,9 +1,6 @@
 streamlit-lottie
 requests 
-pillow 
-pandas 
-numpy 
+pillow
 matplotlib 
 seaborn 
-plotly
 
